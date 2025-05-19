@@ -41,6 +41,12 @@
       "name": "Urano",
       "type": "Planeta",
       "distanceFromSun": "850 millones de km"
+    },
+    {
+      "id": "2c70",
+      "name": "Neptuno",
+      "type": "Plane",
+      "distanceFromSun": "900 millones de km"
     }
   ]
 }
